@@ -1,0 +1,29 @@
+.addCoffee-bg {
+    background: url('../../images/more/11.png');
+    width: 100vw;
+    background-size: cover;
+}
+
+.from-container{
+    width: 83vw;
+    height: 800px;
+    background: #F4F3F0;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 800px){
+    .from-container {
+        height: 1020px;
+    }   
+}
+
+/* 
+images LINK:
+https://i.ibb.co/r407VZp/1.png
+https://i.ibb.co/ynrJqB8/2.png
+https://i.ibb.co/BKjgtNg/6.png
+https://i.ibb.co/60t1Rtn/5.png
+https://i.ibb.co/bBfRbD2/4.png
+https://i.ibb.co/X7DmSpF/3.png
+
+*/

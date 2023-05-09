@@ -1,0 +1,11 @@
+.category-container {
+    background: #ECEAE3;
+    height: 300px;
+}
+
+
+@media only screen and (max-width: 780px){
+    .category-container {
+        height: 500px;
+    }   
+}
